@@ -7,8 +7,8 @@ Tabber will download the very last versions of translations here, even when ther
 
 * Français - *French*
 * English
-* Deutsch - *German* by [Angelo Frangione](AngeloFrangione)
-* 中文 (繁體) - *Traditional Chinese* by [zhtw2013](zhtw2013)
+* Deutsch - *German* by [Angelo Frangione](https://github.com/AngeloFrangione)
+* 中文 (繁體) - *Traditional Chinese* by [zhtw2013](https://github.com/zhtw2013)
 
 ### How to help
 * Fork the repository
