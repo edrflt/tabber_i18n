@@ -1,0 +1,107 @@
+{
+	"description":
+	{
+		"message": "儲存分頁組，以便稍後在新視窗中還原。 您可以透過新增、刪除或變更每個分頁的網址來編輯儲存的分頁組。",
+		"description": "Extension description"
+	},
+	"tabs_name_placeholder":
+	{
+		"message": "輸入分頁組名稱...",
+		"description": "The placeholder in tabber.html"
+	},
+	"edit_new_url_placeholder":
+	{
+		"message": "輸入 url...",
+		"description": "Placeholder in new url input"
+	},
+	"button_add":
+	{
+		"message": "新增",
+		"description": "Add button in edit page"
+	},
+	"button_add_group":
+	{
+		"message": "新增分頁組",
+		"description": "Add group button in edit page"
+	},
+	"button_save":
+	{
+		"message": "儲存",
+		"description": "Save button"
+	},
+	"button_cancel":
+	{
+		"message": "取消",
+		"description": "Cancel button"
+	},
+	"version":
+	{
+		"message": "版本",
+		"description": "version"
+	},
+	"updated_title":
+	{
+		"message": "已經更新",
+		"description": "message Tabber a été mis à jour"
+	},
+	"changelog":
+	{
+		"message": "• 修復圖示問題<br>• 改善側邊欄功能<br>• 其他功能改善",
+		"description": "changelog"
+	},
+	"button_good_news":
+	{
+		"message": "哇，真是太棒啦!",
+		"description": "bouton bonne nouvelle du changelog"
+	},
+	"button_version_notes":
+	{
+		"message": "更新記錄",
+		"description": "Bouton notes de version"
+	},
+	"button_reset":
+	{
+		"message": "重設 Tabber",
+		"description": "Bouton réinitialisation"
+	},
+	"button_reset_continue":
+	{
+		"message": "將會遺失所有資料，要繼續嗎?",
+		"description": "Bouton réinitialisation confirmation"
+	},
+	"button_compact":
+	{
+		"message": "啟用緊湊模式",
+		"description": "bouton mode compact"
+	},
+	"button_compact_disable":
+	{
+		"message": "停用緊湊模式",
+		"description": "bouton mode compact"
+	},
+	"button_replace_tabs":
+	{
+		"message": "取代已開啟的分頁組",
+		"description": "bouton remplacer onglets"
+	},
+	"button_replace_tabs_disable":
+	{
+		"message": "不要取代已開啟的分頁組",
+		"description": "bouton remplacer onglets"
+	},
+	"button_replace_with_tabs":
+	{
+		"message": "取代為目前開啟的分頁組",
+		"description": "bouton remplacer avec onglets actuels"
+	},
+	"button_replace_with_tabs_continue":
+	{
+		"message": "無法還原的操作，確定要繼續嗎?",
+		"description": "bouton remplacer avec onglets actuels"
+	},
+	"button_delete_continue":
+	{
+		"message": "確認刪除?",
+		"description": "bouton confirmer suppression du groupe"
+	}
+}
